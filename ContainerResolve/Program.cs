@@ -6,8 +6,8 @@ namespace ContainerResolve
 	{
 		private static void Main()
 		{
-			//BenchmarkRunner.Run<AutofacBenchmarks>();
-			BenchmarkRunner.Run<ConcurrentDictionaryBenchmarks>();
+			BenchmarkRunner.Run<AutofacBenchmarks>();
+			//BenchmarkRunner.Run<ConcurrentDictionaryBenchmarks>();
 		}
 	}
 }
